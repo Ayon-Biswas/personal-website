@@ -5,11 +5,18 @@ body{
 h1{
     font-size: 50px;
 }
+p{
+    color: dimgray;
+}
 .name-highlight{
     color: tomato;
 }
+.abt{
+    font-size: 30px;
+    color:darkblue;
+}
 .half-width{
-    width: 50%;
+    width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
