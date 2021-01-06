@@ -34,3 +34,25 @@ p{
 section{
     height: 500px;
 }
+.latest-project{
+    background-color: whitesmoke;
+}
+.center{
+    text-align: center;
+    padding: 70px 70px;
+    font-size: 30px;
+}
+.latest-highlight{
+    color: tomato;
+}
+.box{
+    width: 28%;
+    height: 90%;
+    box-shadow: 10px 10px 40px grey;
+    float: left;
+    background-color: white;
+    border: 10% solid white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
